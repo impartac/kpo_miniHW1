@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XxpO+Xq1k14=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\32233\\source\\repos\\KPO_miniHT1\\KPO_miniHT1\\Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\32233\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\32233\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
